@@ -1,11 +1,10 @@
 header {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
   color: white;
   text-align: center;
   margin: 25px;
   padding: 35px 20px 35px 20px;
   background-color: #2a9d8f;
+  border: 2px solid black;
 }
 
 h2 {

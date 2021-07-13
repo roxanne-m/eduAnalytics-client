@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Data.gov
+
+In order to run this project, you must attain an API key from Data.gov (https://api.data.gov/signup/)
+
+When running the code, make sure to replace the ending of the fetch url with your own API key with the App component found in the ComponentDidMount section in order to access the data.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
